@@ -1,4 +1,4 @@
-##👋 Hi, I’m Mubeen
+👋 Hi, I’m Mubeen
 
 I’m a Software Engineer with experience building production-grade systems across Applied AI & automation, cross-platform software, and game / simulation & XR.
 
